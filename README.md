@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhangxuuuu
+- 👋 Hi, I’m @0xzhangxu
 - 👀 I’m interested in Graph Neural Network and Data Mining.
 - 💻 I'm a postgraduate at Institute of Computing Technology,Chinese Academy of Sciences and received my B.S at Tongji University in 2022.
 - 🌱 I’m currently learning GNN and ManimCE.
