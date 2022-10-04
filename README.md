@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xzhangxu
+- 👋 Hi, I’m @0xZhangxu
 - 👀 I’m interested in Graph Neural Network and Reinforcement Learning.
 - 💻 I'm a postgraduate at Institute of Computing Technology,Chinese Academy of Sciences and received my B.S at Tongji University in 2022.
 - 🌱 I’m currently learning GNN and ManimCE.
